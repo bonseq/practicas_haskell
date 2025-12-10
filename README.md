@@ -12,4 +12,4 @@ Aquí voy subiendo todos los ejercicios prácticos que resuelvo para la materia 
 La idea es que uses esto para entender la lógica y desbloquearte, y ademas si quieren contribuir con nuevos ejercicios/ maneras diferentes de hacer algun ejercicio ¡son bienvenidos de añadirlo! 💪
 
 ---
-# * bonseq* ☕
+* bonseq* ☕
