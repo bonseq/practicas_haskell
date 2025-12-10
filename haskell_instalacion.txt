@@ -1,0 +1,11 @@
+instalación de haskell
+
+1. Ejecuta en terminal el siguiente comando
+Set-ExecutionPolicy Bypass -Scope Process -Force;[System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; try { & ([ScriptBlock]::Create((Invoke-WebRequest https://www.haskell.org/ghcup/sh/bootstrap-haskell.ps1 -UseBasicParsing))) -Interactive -DisableCurl } catch { Write-Error $_ }
+
+dar enter luego de que aparezca las letras moradas
+
+2. Descargar en visual estudio code la extensión Haskell de Haskell
+3. Escrito ya un programa, debe pararme en la carpeta en donde este mi .hs y ejecutar ghci para abrir el compilador
+4. llamar a mi modulo con :l miPrograma.hs
+5. llamar funciones
